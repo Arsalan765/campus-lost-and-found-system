@@ -4,14 +4,14 @@ A JavaFX-based desktop application designed to help university students report, 
 
  Features
 
-- Professional Dashboard:** Displays total, lost, found, and returned item statistics.
-- Report Items:** Register lost or found items with detailed information.
-- Search and Filter:** Find items by name, category, and type.
-- Item Details:** View complete information about reported items.
-- Status Tracking:** Mark items as returned.
-- Persistent Storage:** Save and load items using Java file handling.
-- Reminder System:** Countdown timer implemented using multithreading.
-- User-Friendly Interface:** Modern desktop interface built with JavaFX.
+- Professional Dashboard:Displays total, lost, found, and returned item statistics.
+- Report Items:Register lost or found items with detailed information.
+- Search and Filter:Find items by name, category, and type.
+- Item Details:View complete information about reported items.
+- Status Tracking:Mark items as returned.
+- Persistent Storage:Save and load items using Java file handling.
+- Reminder System:Countdown timer implemented using multithreading.
+- User-Friendly Interface:Modern desktop interface built with JavaFX.
 
  Technologies Used
 
@@ -30,7 +30,7 @@ How to Run
 4. Run the `Main.java` class.
 
 Project Purpose
-This project demonstrates practical software development skills, including GUI design, object-oriented programming, event handling, file management, and multithreading.
+This project demonstrates practical software development skills, including GUI design, object-oriented programming, event handling, file management and multithreading.
 Future Improvements 
 - User authentication
 - Database integration
