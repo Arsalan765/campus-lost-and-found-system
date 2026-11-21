@@ -31,11 +31,25 @@ How to Run
 
 Project Purpose
 This project demonstrates practical software development skills, including GUI design, object-oriented programming, event handling, file management, and multithreading.
-Future Improvements
-
+Future Improvements 
 - User authentication
 - Database integration
 - Image uploads for reported items
 - Email notifications
+
+
+Application Screenshots: 
+
+Dashboard
+1.[Dashboard](dashboard.png)
+
+Report Item
+2.[Report Item](report-item.png)
+
+ Search Items
+3[Search Items](search-items.png)
+
+ Item Reminder
+4[Item Reminder](reminder.png)
 
   
