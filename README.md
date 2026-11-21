@@ -38,18 +38,5 @@ Future Improvements
 - Email notifications
 
 
-Application Screenshots: 
-
-Dashboard
-1.[Dashboard](dashboard.png)
-
-Report Item
-2.[Report Item](report-item.png)
-
- Search Items
-3[Search Items](search-items.png)
-
- Item Reminder
-4[Item Reminder](reminder.png)
 
   
